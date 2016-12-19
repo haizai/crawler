@@ -1,0 +1,149 @@
+/* 1 */
+{
+  "allClickCount" : 455.13,
+  "allCommendCount" : 17.39,
+  "id" : 1867311,
+  "secondType" : "异世大陆",
+  "state" : "连载",
+  "title" : "带着农场混异界",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0348,
+  "weekCommendCount" : 0.038,
+  "wordCount" : 2191,
+  "writer" : "明宇"
+},
+
+/* 2 */
+{
+  "allClickCount" : 898.55,
+  "allCommendCount" : 59.19,
+  "id" : 1321240,
+  "secondType" : "都市生活",
+  "state" : "连载",
+  "title" : "重生之妖孽人生",
+  "type" : "都市",
+  "weekClickCount" : 0.0653,
+  "weekCommendCount" : 0.0614,
+  "wordCount" : 2144.14,
+  "writer" : "黄金战士"
+},
+
+/* 3 */
+{
+  "allClickCount" : 6475.93,
+  "allCommendCount" : 1331.17,
+  "id" : 22919,
+  "secondType" : "虚拟网游",
+  "state" : "完本",
+  "title" : "从零开始",
+  "type" : "游戏",
+  "weekClickCount" : 0.0201,
+  "weekCommendCount" : 0.0807,
+  "wordCount" : 2018.08,
+  "writer" : "雷云风暴"
+},
+
+/* 4 */
+{
+  "allClickCount" : 333.82,
+  "allCommendCount" : 53.6,
+  "id" : 1460788,
+  "secondType" : "幻想修仙",
+  "state" : "完本",
+  "title" : "修神外传",
+  "type" : "仙侠",
+  "weekClickCount" : 0.0848,
+  "weekCommendCount" : 0.0356,
+  "wordCount" : 1594.42,
+  "writer" : "小段探花"
+},
+
+/* 5 */
+{
+  "allClickCount" : 896.86,
+  "allCommendCount" : 162.08,
+  "id" : 1040809,
+  "secondType" : "游戏异界",
+  "state" : "连载",
+  "title" : "暗黑破坏神之毁灭",
+  "type" : "游戏",
+  "weekClickCount" : 0.1125,
+  "weekCommendCount" : 0.363,
+  "wordCount" : 1573.16,
+  "writer" : "第七重奏01"
+},
+
+/* 6 */
+{
+  "allClickCount" : 137.43,
+  "allCommendCount" : 0.8452,
+  "id" : 1785552,
+  "secondType" : "架空历史",
+  "state" : "完本",
+  "title" : "煮酒点江山",
+  "type" : "历史",
+  "weekClickCount" : 0.0029,
+  "weekCommendCount" : 0.0002,
+  "wordCount" : 1516.76,
+  "writer" : "江南一梦"
+},
+
+/* 7 */
+{
+  "allClickCount" : 326.31,
+  "allCommendCount" : 8.33,
+  "id" : 1255901,
+  "secondType" : "都市生活",
+  "state" : "连载",
+  "title" : "重生1991",
+  "type" : "都市",
+  "weekClickCount" : 0.0272,
+  "weekCommendCount" : 0.0199,
+  "wordCount" : 1319.77,
+  "writer" : "安平泰"
+},
+
+/* 8 */
+{
+  "allClickCount" : 196.01,
+  "allCommendCount" : 3.51,
+  "id" : 1955676,
+  "secondType" : "秦汉三国",
+  "state" : "连载",
+  "title" : "三国小兵之霸途",
+  "type" : "历史",
+  "weekClickCount" : 0.0195,
+  "weekCommendCount" : 0.0082,
+  "wordCount" : 1286.11,
+  "writer" : "一级烟枪王"
+},
+
+/* 9 */
+{
+  "allClickCount" : 529.25,
+  "allCommendCount" : 46.17,
+  "id" : 1586853,
+  "secondType" : "商战职场",
+  "state" : "连载",
+  "title" : "重生之资源大亨",
+  "type" : "职场",
+  "weekClickCount" : 0.1925,
+  "weekCommendCount" : 0.0674,
+  "wordCount" : 1191.17,
+  "writer" : "月下的孤狼"
+},
+
+/* 10 */
+{
+  "allClickCount" : 2514.59,
+  "allCommendCount" : 52.2,
+  "id" : 1931432,
+  "secondType" : "异术超能",
+  "state" : "连载",
+  "title" : "校花的贴身高手",
+  "type" : "都市",
+  "weekClickCount" : 0.1431,
+  "weekCommendCount" : 0.1738,
+  "wordCount" : 1176.35,
+  "writer" : "鱼人二代"
+}

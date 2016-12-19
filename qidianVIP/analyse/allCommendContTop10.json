@@ -1,0 +1,149 @@
+/* 1 */
+{
+  "allClickCount" : 10083.79,
+  "allCommendCount" : 1344.29,
+  "id" : 107580,
+  "secondType" : "幻想修仙",
+  "state" : "完本",
+  "title" : "凡人修仙传",
+  "type" : "仙侠",
+  "weekClickCount" : 0.1079,
+  "weekCommendCount" : 0.1645,
+  "wordCount" : 747.84,
+  "writer" : "忘语"
+},
+
+/* 2 */
+{
+  "allClickCount" : 6475.93,
+  "allCommendCount" : 1331.17,
+  "id" : 22919,
+  "secondType" : "虚拟网游",
+  "state" : "完本",
+  "title" : "从零开始",
+  "type" : "游戏",
+  "weekClickCount" : 0.0201,
+  "weekCommendCount" : 0.0807,
+  "wordCount" : 2018.08,
+  "writer" : "雷云风暴"
+},
+
+/* 3 */
+{
+  "allClickCount" : 9454.45,
+  "allCommendCount" : 771.47,
+  "id" : 1017141,
+  "secondType" : "剑与魔法",
+  "state" : "完本",
+  "title" : "盘龙",
+  "type" : "奇幻",
+  "weekClickCount" : 0.0164,
+  "weekCommendCount" : 0.0061,
+  "wordCount" : 335.66,
+  "writer" : "我吃西红柿"
+},
+
+/* 4 */
+{
+  "allClickCount" : 8462.73,
+  "allCommendCount" : 745.78,
+  "id" : 1639199,
+  "secondType" : "未来世界",
+  "state" : "完本",
+  "title" : "吞噬星空",
+  "type" : "科幻",
+  "weekClickCount" : 0.0571,
+  "weekCommendCount" : 0.0244,
+  "wordCount" : 478.04,
+  "writer" : "我吃西红柿"
+},
+
+/* 5 */
+{
+  "allClickCount" : 2930.49,
+  "allCommendCount" : 730.59,
+  "id" : 1479,
+  "secondType" : "王朝争霸",
+  "state" : "完本",
+  "title" : "江山美人志",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0108,
+  "weekCommendCount" : 0.0048,
+  "wordCount" : 506.69,
+  "writer" : "瑞根"
+},
+
+/* 6 */
+{
+  "allClickCount" : 4988.92,
+  "allCommendCount" : 671.33,
+  "id" : 118447,
+  "secondType" : "幻想修仙",
+  "state" : "完本",
+  "title" : "星辰变",
+  "type" : "仙侠",
+  "weekClickCount" : 0.016,
+  "weekCommendCount" : 0.0089,
+  "wordCount" : 283.68,
+  "writer" : "我吃西红柿"
+},
+
+/* 7 */
+{
+  "allClickCount" : 14990.7,
+  "allCommendCount" : 662.91,
+  "id" : 1209977,
+  "secondType" : "异世大陆",
+  "state" : "完本",
+  "title" : "斗破苍穹",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0413,
+  "weekCommendCount" : 0.0325,
+  "wordCount" : 532.45,
+  "writer" : "天蚕土豆"
+},
+
+/* 8 */
+{
+  "allClickCount" : 2931.88,
+  "allCommendCount" : 659.69,
+  "id" : 2952453,
+  "secondType" : "东方玄幻",
+  "state" : "完本",
+  "title" : "完美世界",
+  "type" : "玄幻",
+  "weekClickCount" : 0.1516,
+  "weekCommendCount" : 0.1477,
+  "wordCount" : 658.72,
+  "writer" : "辰东"
+},
+
+/* 9 */
+{
+  "allClickCount" : 2481.72,
+  "allCommendCount" : 625.35,
+  "id" : 45050,
+  "secondType" : "异世大陆",
+  "state" : "完本",
+  "title" : "兽血沸腾",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0158,
+  "weekCommendCount" : 0.0016,
+  "wordCount" : 472.99,
+  "writer" : "静官"
+},
+
+/* 10 */
+{
+  "allClickCount" : 3001.93,
+  "allCommendCount" : 622.56,
+  "id" : 2750457,
+  "secondType" : "异世大陆",
+  "state" : "连载",
+  "title" : "大主宰",
+  "type" : "玄幻",
+  "weekClickCount" : 0.9602,
+  "weekCommendCount" : 1.9,
+  "wordCount" : 443.29,
+  "writer" : "天蚕土豆"
+}

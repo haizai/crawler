@@ -1,0 +1,148 @@
+{
+  "allClickCount" : 14990.7,
+  "allCommendCount" : 662.91,
+  "id" : 1209977,
+  "secondType" : "异世大陆",
+  "state" : "完本",
+  "title" : "斗破苍穹",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0413,
+  "weekCommendCount" : 0.0325,
+  "wordCount" : 532.45,
+  "writer" : "天蚕土豆"
+},
+
+/* 2 */
+{
+  "allClickCount" : 10083.79,
+  "allCommendCount" : 1344.29,
+  "id" : 107580,
+  "secondType" : "幻想修仙",
+  "state" : "完本",
+  "title" : "凡人修仙传",
+  "type" : "仙侠",
+  "weekClickCount" : 0.1079,
+  "weekCommendCount" : 0.1645,
+  "wordCount" : 747.84,
+  "writer" : "忘语"
+},
+
+/* 3 */
+{
+  "allClickCount" : 9454.45,
+  "allCommendCount" : 771.47,
+  "id" : 1017141,
+  "secondType" : "剑与魔法",
+  "state" : "完本",
+  "title" : "盘龙",
+  "type" : "奇幻",
+  "weekClickCount" : 0.0164,
+  "weekCommendCount" : 0.0061,
+  "wordCount" : 335.66,
+  "writer" : "我吃西红柿"
+},
+
+/* 4 */
+{
+  "allClickCount" : 8462.73,
+  "allCommendCount" : 745.78,
+  "id" : 1639199,
+  "secondType" : "未来世界",
+  "state" : "完本",
+  "title" : "吞噬星空",
+  "type" : "科幻",
+  "weekClickCount" : 0.0571,
+  "weekCommendCount" : 0.0244,
+  "wordCount" : 478.04,
+  "writer" : "我吃西红柿"
+},
+
+/* 5 */
+{
+  "allClickCount" : 6676.76,
+  "allCommendCount" : 246.09,
+  "id" : 2048120,
+  "secondType" : "东方玄幻",
+  "state" : "完本",
+  "title" : "武动乾坤",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0205,
+  "weekCommendCount" : 0.016,
+  "wordCount" : 393.98,
+  "writer" : "天蚕土豆"
+},
+
+/* 6 */
+{
+  "allClickCount" : 6475.93,
+  "allCommendCount" : 1331.17,
+  "id" : 22919,
+  "secondType" : "虚拟网游",
+  "state" : "完本",
+  "title" : "从零开始",
+  "type" : "游戏",
+  "weekClickCount" : 0.0201,
+  "weekCommendCount" : 0.0807,
+  "wordCount" : 2018.08,
+  "writer" : "雷云风暴"
+},
+
+/* 7 */
+{
+  "allClickCount" : 6313.9,
+  "allCommendCount" : 570.62,
+  "id" : 1115277,
+  "secondType" : "异世大陆",
+  "state" : "完本",
+  "title" : "斗罗大陆",
+  "type" : "玄幻",
+  "weekClickCount" : 0.0061,
+  "weekCommendCount" : 0.0132,
+  "wordCount" : 302.11,
+  "writer" : "唐家三少"
+},
+
+/* 8 */
+{
+  "allClickCount" : 6287.17,
+  "allCommendCount" : 546.1,
+  "id" : 1735921,
+  "secondType" : "修真文明",
+  "state" : "完本",
+  "title" : "遮天",
+  "type" : "仙侠",
+  "weekClickCount" : 0.0478,
+  "weekCommendCount" : 0.0414,
+  "wordCount" : 635.92,
+  "writer" : "辰东"
+},
+
+/* 9 */
+{
+  "allClickCount" : 6164.48,
+  "allCommendCount" : 531.03,
+  "id" : 2502372,
+  "secondType" : "修真文明",
+  "state" : "完本",
+  "title" : "莽荒纪",
+  "type" : "仙侠",
+  "weekClickCount" : 0.0523,
+  "weekCommendCount" : 0.0272,
+  "wordCount" : 417.89,
+  "writer" : "我吃西红柿"
+},
+
+/* 10 */
+{
+  "allClickCount" : 5703.58,
+  "allCommendCount" : 377.41,
+  "id" : 1321320,
+  "secondType" : "武侠幻想",
+  "state" : "完本",
+  "title" : "九鼎记",
+  "type" : "武侠",
+  "weekClickCount" : 0.0086,
+  "weekCommendCount" : 0.0098,
+  "wordCount" : 202.6,
+  "writer" : "我吃西红柿"
+}
