@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "author": "haizai",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "fs-extra": "^1.0.0",
+    "graceful-fs": "^4.1.11",
+    "mongoose": "^4.6.5",
+    "superagent": "^2.3.0"
+  }
+}
